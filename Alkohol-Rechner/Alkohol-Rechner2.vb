@@ -148,12 +148,10 @@
         TextBox14.Clear()
         TextBox15.Clear()
         TextBox16.Clear()
-        TextBox1.Clear()
-        TextBox2.Clear()
-        TextBox3.Clear()
         TextBox5.Clear()
         TextBox11.Clear()
         TextBox4.Clear()
+        TextBox12.Select()
 
     End Sub
 

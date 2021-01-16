@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Alkohol-Rechner.exe" size="538624">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Alkohol-Rechner.exe" size="539136">
       <assemblyIdentity name="Alkohol-Rechner" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pHz3zQWk9OYmCznJtefBxYuDczg0puh7UkrDmKuYuKA=</dsig:DigestValue>
+        <dsig:DigestValue>CbxZY/tWBBDiiXD5dO0FzZjoj/d0jLx9fsOBGL7DDjM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\Alkohol-Rechner.resources.dll" size="129024">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\Alkohol-Rechner.resources.dll" size="129536">
       <assemblyIdentity name="Alkohol-Rechner.resources" version="1.0.0.0" language="de" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FjOW8C64y17yhUlRRXDrQkLd74ziNAwsIqdrEH7/j2w=</dsig:DigestValue>
+        <dsig:DigestValue>rlQyjRdUT32Mx9K7r1d4jFTLyZtCvUNqGgb3SZPRUJE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

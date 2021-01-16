@@ -83,9 +83,7 @@
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
-        TextBox1.Clear()
-        TextBox2.Clear()
-        TextBox3.Clear()
+
         TextBox4.Clear()
         TextBox6.Clear()
         TextBox7.Clear()
@@ -98,6 +96,8 @@
         TextBox2.BackColor = Color.White
         TextBox3.BackColor = Color.White
         TextBox4.BackColor = Color.White
+
+        TextBox4.Select()
 
 
     End Sub

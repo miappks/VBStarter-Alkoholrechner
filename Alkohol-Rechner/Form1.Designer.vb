@@ -65,6 +65,7 @@ Partial Class Form1
         Me.ToolStripMenuItem3 = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripMenuItem4 = New System.Windows.Forms.ToolStripMenuItem()
         Me.PromilleRechner = New System.Windows.Forms.ToolStripButton()
+        Me.ToolStripSeparator1 = New System.Windows.Forms.ToolStripSeparator()
         Me.ToolStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -286,7 +287,7 @@ Partial Class Form1
         '
         resources.ApplyResources(Me.ToolStrip1, "ToolStrip1")
         Me.ToolStrip1.BackColor = System.Drawing.SystemColors.Control
-        Me.ToolStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Info, Me.ToolStripDropDownButton1, Me.PromilleRechner})
+        Me.ToolStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Info, Me.ToolStripDropDownButton1, Me.ToolStripSeparator1, Me.PromilleRechner})
         Me.ToolStrip1.Name = "ToolStrip1"
         '
         'Info
@@ -319,6 +320,11 @@ Partial Class Form1
         resources.ApplyResources(Me.PromilleRechner, "PromilleRechner")
         Me.PromilleRechner.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text
         Me.PromilleRechner.Name = "PromilleRechner"
+        '
+        'ToolStripSeparator1
+        '
+        resources.ApplyResources(Me.ToolStripSeparator1, "ToolStripSeparator1")
+        Me.ToolStripSeparator1.Name = "ToolStripSeparator1"
         '
         'Form1
         '
@@ -418,4 +424,5 @@ Partial Class Form1
     Friend WithEvents ToolStripMenuItem3 As ToolStripMenuItem
     Friend WithEvents ToolStripMenuItem4 As ToolStripMenuItem
     Friend WithEvents PromilleRechner As ToolStripButton
+    Friend WithEvents ToolStripSeparator1 As ToolStripSeparator
 End Class
