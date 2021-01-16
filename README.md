@@ -10,7 +10,7 @@ I build this App __only__ to learn Visual Basic .NET, but the calculations are a
 ## Screenshots
 
 :-------------------------:|:-------------------------:
-![Alkoholrechner](https://github.com/miappks/Simple-TicTacToe/blob/main/TicTacToe/Images/TicTacToe.PNG)  |  ![Promillerechner](https://github.com/miappks/Simple-TicTacToe/blob/main/TicTacToe/Images/Winner.PNG)
+![Alkoholrechner](https://github.com/miappks/VBStarter-Alkoholrechner/blob/main/Screenshots/Alkoholrechner.PNG)  |  ![Promillerechner](https://github.com/miappks/VBStarter-Alkoholrechner/blob/main/Screenshots/Promillerechner.PNG)
 
 
 Specs
