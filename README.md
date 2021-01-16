@@ -2,7 +2,7 @@
 
 Starterproject for VB .Net and Visual Studio
 
-I hope you don't need the app to calculate your alcohol consumption.😁
+I hope you don't need the app to calculate your alcohol consumption😁.
 I build this App __only__ to learn Visual Basic .NET, but the calculations are all valid.
 
 
