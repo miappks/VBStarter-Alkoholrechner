@@ -9,7 +9,7 @@ I build this App __only__ to learn Visual Basic .NET, but the calculations are a
 
 ## Installation
 
-Goto Alkoholrechner-Compiled and run setup.exe to install Alkoholrechner. To run once doubleclick Alkohol-Rechner.exe
+Goto Alkoholrechner-Compiled and run setup.exe to install Alkoholrechner.
 
 ## Screenshots
 
