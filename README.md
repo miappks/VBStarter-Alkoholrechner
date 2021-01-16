@@ -27,7 +27,7 @@ Development environment: Visual Studio 2017
 
 App Language: German only
 
-Year of Release: 2018
+Year of first release: 2018
 
 Version: 1.0.3 (10)
 
