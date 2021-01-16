@@ -9,7 +9,7 @@ I build this App __only__ to learn Visual Basic .NET, but the calculations are a
 
 ## Screenshots
 
-Alhoholberechnung nach Promille | Promilleberechnung nach Alkoholkonsum
+Alkoholberechnung nach Promille | Promilleberechnung nach Alkoholkonsum
 :-------------------------:|:-------------------------:
 ![Alkoholrechner](https://github.com/miappks/VBStarter-Alkoholrechner/blob/main/Screenshots/Alkoholrechner.PNG)  |  ![Promillerechner](https://github.com/miappks/VBStarter-Alkoholrechner/blob/main/Screenshots/Promillerechner.PNG)
 
