@@ -29,7 +29,7 @@ App Language: German only
 
 Year of first release: 2018
 
-Version: 1.0.3 (10)
+Version: 1.0.3 (21)
 
 
 License
